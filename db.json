@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sriram Srinivasan",
+      "college": "IIT Gandhinagar",
+      "city": "Gandhinagar"
+    },
+    {
+      "id": 2,
+      "name": "Srirangan S",
+      "college": "IIT Gandhinagar",
+      "city": "Gandhinagar"
+    },
+    {
+      "id": 3,
+      "name": "Raghavpravin K S",
+      "college": "IIT Gandhinagar",
+      "city": "Gandhinagar"
+    },
+    {
+      "id": 4,
+      "name": "Vikram Hariharan",
+      "college": "BITS Pilani",
+      "city": "Pilani"
+    }
+  ]
+}
